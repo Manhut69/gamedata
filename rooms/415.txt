@@ -1,5 +1,7 @@
-'xyzzy'
-Je doet je ogen dicht en spreekt de spreuk die je hierheen bracht weer uit... Er ontstaan een paar kleine lichtflitsjes om je heen, maar er gebeurt verder helaas niks. Dan maar verder zoeken...
-----
-FORCED 401
-
+Bespin Catwalk
+Het epische gevecht drijft tot ver in het centrum van Cloud City. Darth Stegeman zijn github push is sterk, maar jij houdt je staande. "Jij hebt mijn TA uitgeroosterd!" schrijf je boos in je commit message. "Nee" post hij in de announcements "Ik _BEN_ jouw TA!" en ramt je toetsenbord kapot. "NEE" roep je, terwijl je jezelf over de railing gooit. De val duurt lang, maar gelukkig wordt je opgevangen door Han Sander en KimBieccca in de Mill&&ium falcon. "We kunnen 2 dingen doen, terug de ruimte in naar de Bash star, of naar beneden naar cloud city, wat wil je doen?"
+-----
+SOUTH 401
+UP 401
+NORTH 420
+DOWN 420
